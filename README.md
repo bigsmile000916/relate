@@ -11,8 +11,9 @@
   <sub>Made with ❤︎ by <a href="https://sdubois.now.sh">Sébastien Dubois</a></sub>
 </div>
 
-[![Slack Channel](https://relate-slack.now.sh/badge.svg)](https://relate-slack.now.sh)
-[![Greenkeeper badge](https://badges.greenkeeper.io/relatenow/relate.svg)](https://greenkeeper.io/)
+# Deprecation notice
+
+This project is no longer actively developed. However, I (Sébastien Dubois) am pursuing mindfulness and web development at [Imagine Clarity](http://imagineclarity.com). Do get in touch with us if you want to help spread mindfulness with next-generation web technologies.
 
 ## Stack
 
